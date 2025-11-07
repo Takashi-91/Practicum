@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MVCIngresS\\MVCIngress.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FunctionInjector1\\FunctionInjector1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
