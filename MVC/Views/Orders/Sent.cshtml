@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Order Sent";
+}
+
+
+<head>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<div class="max-w-3xl mx-auto py-10 px-4">
+
+
+    <div class="mb-8 text-center">
+        <h2 class="text-3xl font-bold text-black mb-2">Order Sent Successfully</h2>
+        <p class="text-gray-600">Your order has been queued successfully. Thank you for your purchase!</p>
+    </div>
+
+  
+    <div class="bg-white rounded-xl shadow-lg border border-gray-200 p-8">
+        <p class="text-lg font-medium text-gray-700">
+            <strong>Order ID:</strong> <span class="text-primary-600">@ViewBag.OrderId</span>
+        </p>
+    </div>
+
+
+    <div class="mt-8 text-center">
+        <a asp-action="Create" class="inline-flex items-center gap-2 px-6 py-2.5 bg-black text-white rounded-lg hover:bg-primary-700
+                                      transition-colors font-medium">
+            <i class="fas fa-plus"></i> Create Another Order
+        </a>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

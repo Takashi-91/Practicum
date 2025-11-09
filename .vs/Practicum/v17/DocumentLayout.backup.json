@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{969D9AFF-35EE-40FF-9C48-7078E237A758}|AzureFunction\\AzureFunction.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\azurefunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{969D9AFF-35EE-40FF-9C48-7078E237A758}|AzureFunction\\AzureFunction.csproj|solutionrelative:azurefunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D9AFF-35EE-40FF-9C48-7078E237A758}|AzureFunction\\AzureFunction.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\azurefunction\\processordersfromstoragequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969D9AFF-35EE-40FF-9C48-7078E237A758}|AzureFunction\\AzureFunction.csproj|solutionrelative:azurefunction\\processordersfromstoragequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\services\\queuestoragesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\services\\queuestoragesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\services\\iqueuesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\services\\iqueuesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\entities\\orderevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\entities\\orderevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\views\\orders\\sent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\orders\\sent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D9AFF-35EE-40FF-9C48-7078E237A758}|AzureFunction\\AzureFunction.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\azurefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969D9AFF-35EE-40FF-9C48-7078E237A758}|AzureFunction\\AzureFunction.csproj|solutionrelative:azurefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\models\\orderinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\orderinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\entities\\processedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\entities\\processedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0431DE-F414-4AE1-8692-F67C528A8AF2}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D9AFF-35EE-40FF-9C48-7078E237A758}|AzureFunction\\AzureFunction.csproj|c:\\users\\rc_student_lab\\source\\repos\\practicum\\azurefunction\\azurefunction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{969D9AFF-35EE-40FF-9C48-7078E237A758}|AzureFunction\\AzureFunction.csproj|solutionrelative:azurefunction\\azurefunction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\AzureFunction\\local.settings.json",
+              "RelativeDocumentMoniker": "AzureFunction\\local.settings.json",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\AzureFunction\\local.settings.json",
+              "RelativeToolTip": "AzureFunction\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T08:12:12.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Views\\Orders\\Create.cshtml*",
+              "RelativeToolTip": "MVC\\Views\\Orders\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T05:48:11.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sent.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Views\\Orders\\Sent.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Orders\\Sent.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Views\\Orders\\Sent.cshtml*",
+              "RelativeToolTip": "MVC\\Views\\Orders\\Sent.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T05:48:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\appsettings.json",
+              "RelativeToolTip": "MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T05:40:46.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderEvent.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Entities\\OrderEvent.cs",
+              "RelativeDocumentMoniker": "MVC\\Entities\\OrderEvent.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Entities\\OrderEvent.cs",
+              "RelativeToolTip": "MVC\\Entities\\OrderEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:57:19.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IQueueSender.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Services\\IQueueSender.cs",
+              "RelativeDocumentMoniker": "MVC\\Services\\IQueueSender.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Services\\IQueueSender.cs*",
+              "RelativeToolTip": "MVC\\Services\\IQueueSender.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:35:25.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueueStorageSender.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Services\\QueueStorageSender.cs",
+              "RelativeDocumentMoniker": "MVC\\Services\\QueueStorageSender.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Services\\QueueStorageSender.cs",
+              "RelativeToolTip": "MVC\\Services\\QueueStorageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:38:38.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:43:23.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessOrdersFromStorageQueue.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\AzureFunction\\ProcessOrdersFromStorageQueue.cs",
+              "RelativeDocumentMoniker": "AzureFunction\\ProcessOrdersFromStorageQueue.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\AzureFunction\\ProcessOrdersFromStorageQueue.cs",
+              "RelativeToolTip": "AzureFunction\\ProcessOrdersFromStorageQueue.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:16:36.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\AzureFunction\\Program.cs",
+              "RelativeDocumentMoniker": "AzureFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\AzureFunction\\Program.cs",
+              "RelativeToolTip": "AzureFunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:14:26.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderInputViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Models\\OrderInputViewModel.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\OrderInputViewModel.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Models\\OrderInputViewModel.cs",
+              "RelativeToolTip": "MVC\\Models\\OrderInputViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:44:22.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProcessedOrder.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Entities\\ProcessedOrder.cs",
+              "RelativeDocumentMoniker": "MVC\\Entities\\ProcessedOrder.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Entities\\ProcessedOrder.cs",
+              "RelativeToolTip": "MVC\\Entities\\ProcessedOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:57:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "MVC\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "MVC\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:51:36.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC\\MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T00:40:49.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:25:12.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MVC",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC\\MVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T09:41:19.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T09:41:29.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T09:23:51.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T09:23:47.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:01:15.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AzureFunction.csproj",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\AzureFunction\\AzureFunction.csproj",
+              "RelativeDocumentMoniker": "AzureFunction\\AzureFunction.csproj",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\Practicum\\AzureFunction\\AzureFunction.csproj",
+              "RelativeToolTip": "AzureFunction\\AzureFunction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T06:14:42.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

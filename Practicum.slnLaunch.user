@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MVC\\MVC.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AzureFunction\\AzureFunction.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

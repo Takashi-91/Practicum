@@ -1,0 +1,71 @@
+﻿@using MVC.Models
+@model OrderInputViewModel
+@{
+    ViewData["Title"] = "Create Order";
+}
+<head>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+<div class="max-w-4xl mx-auto py-10 px-4">
+ 
+    <div class="mb-8 text-center">
+        <h1 class="text-3xl font-bold text-gray-900 mb-2">Create Order</h1>
+        <p class="text-gray-600">Create a new order in the system.</p>
+    </div>
+
+   
+    <div class="bg-white  p-8">
+        <form asp-action="Create" method="post" class="space-y-6">
+
+    
+            <div>
+                <label asp-for="OrderId" class="block text-sm font-medium text-gray-700 mb-2">
+                    Order ID <span class="text-red-500">*</span>
+                </label>
+                <input asp-for="OrderId"
+                       class="block w-full px-4 py-3 border border-gray-300 rounded-lg bg-white text-gray-900 placeholder-gray-500
+                              focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+                       placeholder="Enter order ID" required />
+                <span asp-validation-for="OrderId" class="text-red-600 text-xs mt-1"></span>
+            </div>
+
+            <div>
+                <label asp-for="UserId" class="block text-sm font-medium text-gray-700 mb-2">
+                    User ID <span class="text-red-500">*</span>
+                </label>
+                <input asp-for="UserId"
+                       class="block w-full px-4 py-3 border border-gray-300 rounded-lg bg-white text-gray-900 placeholder-gray-500
+                              focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+                       placeholder="Enter user ID" required />
+                <span asp-validation-for="UserId" class="text-red-600 text-xs mt-1"></span>
+            </div>
+
+            <!-- Amount -->
+            <div>
+                <label asp-for="Amount" class="block text-sm font-medium text-gray-700 mb-2">
+                    Amount <span class="text-red-500">*</span>
+                </label>
+                <input asp-for="Amount"
+                       class="block w-full px-4 py-3 border border-gray-300 rounded-lg bg-white text-gray-900 placeholder-gray-500
+                              focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+                       placeholder="Enter amount" required />
+                <span asp-validation-for="Amount" class="text-red-600 text-xs mt-1"></span>
+            </div>
+
+            <!-- Submit Button -->
+            <div class="flexalign-items-center  justify-end gap-4 pt-6 border-t border-gray-200">
+                <button type="submit"
+                        class="inline-flex items-center gap-2 px-6 py-2.5 bg-black text-white rounded-lg hover:bg-primary-700
+                               transition-colors font-medium">
+                    <i class="fas fa-save"></i> Submit Order
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
